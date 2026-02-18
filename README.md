@@ -1,0 +1,1 @@
+The project displays the total number of orders and classifies them by port and country of origin, highlighting the percentage of orders that require municipal approval through a pie chart. It provides filters to easily sort the data by country, port, and type of order.
